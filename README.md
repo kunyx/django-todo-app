@@ -28,3 +28,5 @@ git clone https://github.com/<username>/django-todo-app
 ## ⚖ License
 
 The code used in this project and in the linked tutorial are licensed under the [Apache License, Version 2.0](LICENSE).
+
+### A teljes leiras a Docker Hub kunyx repo osszerendelese a GitHub kunyx repo-val a django-todo-app eseteben a kunyx_Docker-Hub fajlban talalhato!
